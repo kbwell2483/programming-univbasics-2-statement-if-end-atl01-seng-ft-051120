@@ -1,1 +1,5 @@
-time.authenticate_or_request_with_http_digest
+if TRUE
+  puts "Even!"
+else
+  puts "Odd!"
+end
